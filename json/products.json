@@ -1,0 +1,60 @@
+{
+    "products":[
+        {
+            "id": 5,
+            "url": "#",
+            "title": "Свадебный ободок Ассоль",
+            "text": "Swarovski crystals",
+            "labels": "",
+            "image": "05.jpg",
+            "price": "3 500 Р",
+            "priceOld": "",
+            "shareUrl": "",
+            "likeUrl": ""
+
+        },
+        {
+            "id": 6,
+            "url": "#",
+            "title": "Серьги Лунная соната",
+            "text": "Silver 925,natural pearls",
+            "labels": "",
+            "image": "06.jpg",
+            "price": "2 300 Р",
+            "priceOld": "",
+            "shareUrl": "",
+            "likeUrl": ""
+
+        },
+        {
+            "id": 7,
+            "url": "#",
+            "title": "Свадебный венок Нимфа",
+            "text": "Swarovski crystals",
+            "labels":[ {
+                "type": "new",
+                "value": "New"
+            }
+            ],
+            "image": "07.jpg",
+            "price": "5 700 Р",
+            "priceOld": "",
+            "shareUrl": "",
+            "likeUrl": ""
+
+        },
+        {
+            "id": 8,
+            "url": "#",
+            "title": "Браслет Ирен Адлер",
+            "text": "Silver 925, zircons",
+            "labels": "",
+            "image": "08.jpg",
+            "price": "9 800 Р",
+            "priceOld": "",
+            "shareUrl": "",
+            "likeUrl": ""
+
+        }
+    ]
+}
